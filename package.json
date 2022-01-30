@@ -13,7 +13,7 @@
     "lint": "npx eslint ."
   },
   "bin": {
-    "cloudsploit-scan": "./index.js"
+    "cloudsploitscan": "./index.js"
   },
   "repository": {
     "type": "git",
